@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "272050474757",
+    "firebase_url": "https://stickeyheader.firebaseio.com",
+    "project_id": "stickeyheader",
+    "storage_bucket": "stickeyheader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272050474757:android:81b79ef2b447d826",
+        "android_client_info": {
+          "package_name": "com.stickyheader.stickyheader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272050474757-n26qk5m71mjof5td9emf1bj2ifqj6ct9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stickyheader.stickyheader",
+            "certificate_hash": "60363e60ce9ee4d62a232dd414335fcb9d4359d2"
+          }
+        },
+        {
+          "client_id": "272050474757-ul9ghv59n4c2v2tuuro3l4qhdo8kormh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoPJROvny41lIMAn0_lAPsyT9yOJVTNkg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272050474757-ul9ghv59n4c2v2tuuro3l4qhdo8kormh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
